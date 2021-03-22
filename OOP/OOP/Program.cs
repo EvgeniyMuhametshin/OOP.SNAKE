@@ -6,23 +6,21 @@ namespace OOP
 	{
 		static void Main(string[] args)
 		{
-			int x1 = 1;
-			int y1 = 3;
-			char sym1 = '*';
-			draw(x1,y1,sym1);
+			Point p1 = new Point();//Обращение к классу Point()
+			p1._x = 1;
+			p1._y = 3;
+			p1._sym = '*';
 
-			int x2 = 5;
-			int y2= 4;
-			char sym2 = '#';
-			draw(x2, y2, sym2);
+			p1.draw(p1._x, p1._y, p1._sym);
+
+			Point p2 = new Point();
+			p2._x = 5;
+			p2._y = 4;
+			p2._sym = '#';
+
+			p2.draw(p2._x, p2._y, p2._sym);
 
 			Console.ReadKey();
-		}
-
-		static void draw(int x, int y, char sym)
-		{ 
-			Console.SetCursorPosition(x, y);
-			Console.Write(sym);
 		}
 	}
 }
