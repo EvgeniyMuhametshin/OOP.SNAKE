@@ -6,9 +6,16 @@ namespace OOP
 {
 	class Point
 	{
-		public int _x;
-		public int _y;
-		public char _sym;
+		public int x;
+		public int y;
+		public char sym;
+
+		public Point(int _x, int _y, char _sym)//Создание конструктора Инкапсуляция
+		{
+			x = _x;
+			y = _y;
+			sym = _sym;
+		}
 
 		public void draw(int x, int y, char sym)
 		{

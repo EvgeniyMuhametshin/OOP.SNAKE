@@ -11,3 +11,16 @@ C:\Users\Евгений и Алла и Ксю\Desktop\C#\ООП\OOP\OOP\obj\Debu
 C:\Users\Евгений и Алла и Ксю\Desktop\C#\ООП\OOP\OOP\obj\Debug\netcoreapp3.1\OOP.dll
 C:\Users\Евгений и Алла и Ксю\Desktop\C#\ООП\OOP\OOP\obj\Debug\netcoreapp3.1\OOP.pdb
 C:\Users\Евгений и Алла и Ксю\Desktop\C#\ООП\OOP\OOP\obj\Debug\netcoreapp3.1\OOP.genruntimeconfig.cache
+D:\Game-Development\OOP.Snake\OOP\OOP\bin\Debug\netcoreapp3.1\OOP.exe
+D:\Game-Development\OOP.Snake\OOP\OOP\bin\Debug\netcoreapp3.1\OOP.deps.json
+D:\Game-Development\OOP.Snake\OOP\OOP\bin\Debug\netcoreapp3.1\OOP.runtimeconfig.json
+D:\Game-Development\OOP.Snake\OOP\OOP\bin\Debug\netcoreapp3.1\OOP.runtimeconfig.dev.json
+D:\Game-Development\OOP.Snake\OOP\OOP\bin\Debug\netcoreapp3.1\OOP.dll
+D:\Game-Development\OOP.Snake\OOP\OOP\bin\Debug\netcoreapp3.1\OOP.pdb
+D:\Game-Development\OOP.Snake\OOP\OOP\obj\Debug\netcoreapp3.1\OOP.csprojAssemblyReference.cache
+D:\Game-Development\OOP.Snake\OOP\OOP\obj\Debug\netcoreapp3.1\OOP.AssemblyInfoInputs.cache
+D:\Game-Development\OOP.Snake\OOP\OOP\obj\Debug\netcoreapp3.1\OOP.AssemblyInfo.cs
+D:\Game-Development\OOP.Snake\OOP\OOP\obj\Debug\netcoreapp3.1\OOP.csproj.CoreCompileInputs.cache
+D:\Game-Development\OOP.Snake\OOP\OOP\obj\Debug\netcoreapp3.1\OOP.dll
+D:\Game-Development\OOP.Snake\OOP\OOP\obj\Debug\netcoreapp3.1\OOP.pdb
+D:\Game-Development\OOP.Snake\OOP\OOP\obj\Debug\netcoreapp3.1\OOP.genruntimeconfig.cache

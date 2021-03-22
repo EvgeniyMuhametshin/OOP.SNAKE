@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\Евгений и Алла и Ксю\\Desktop\\C#\\ООП\\OOP\\OOP\\OOP.csproj": {}
+    "D:\\Game-Development\\OOP.Snake\\OOP\\OOP\\OOP.csproj": {}
   },
   "projects": {
-    "C:\\Users\\Евгений и Алла и Ксю\\Desktop\\C#\\ООП\\OOP\\OOP\\OOP.csproj": {
+    "D:\\Game-Development\\OOP.Snake\\OOP\\OOP\\OOP.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\Евгений и Алла и Ксю\\Desktop\\C#\\ООП\\OOP\\OOP\\OOP.csproj",
+        "projectUniqueName": "D:\\Game-Development\\OOP.Snake\\OOP\\OOP\\OOP.csproj",
         "projectName": "OOP",
-        "projectPath": "C:\\Users\\Евгений и Алла и Ксю\\Desktop\\C#\\ООП\\OOP\\OOP\\OOP.csproj",
+        "projectPath": "D:\\Game-Development\\OOP.Snake\\OOP\\OOP\\OOP.csproj",
         "packagesPath": "C:\\Users\\Евгений и Алла и Ксю\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\Евгений и Алла и Ксю\\Desktop\\C#\\ООП\\OOP\\OOP\\obj\\",
+        "outputPath": "D:\\Game-Development\\OOP.Snake\\OOP\\OOP\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\Евгений и Алла и Ксю\\AppData\\Roaming\\NuGet\\NuGet.Config",
