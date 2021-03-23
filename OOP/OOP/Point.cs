@@ -17,7 +17,7 @@ namespace OOP
 			sym = _sym;
 		}
 
-		public void draw(int x, int y, char sym)
+		public void Draw()
 		{
 			Console.SetCursorPosition(x, y);
 			Console.Write(sym);
