@@ -13,8 +13,10 @@ namespace OOP
 			Point p2 = new Point(5, 4, '#');
 			p2.Draw();
 
-			HorizontalLine line = new HorizontalLine(5, 10, 8, '+');	
-			line.Drow();
+			HorizontalLine lineH = new HorizontalLine(5, 10, 8, '+');	
+			lineH.Drow();
+			VerticalLine lineV = new VerticalLine(10, 15, 7, '+');
+			lineV.Drow();
 
 			Console.ReadKey();
 		}
