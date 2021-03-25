@@ -7,18 +7,18 @@ namespace OOP
 	{
 		static void Main(string[] args)
 		{
-			Point p1 = new Point(1, 3, '*');//Обращение к классу Point()
-			p1.Draw();
+			HorizontalLine upLine = new HorizontalLine(0, 78, 0, '+');
+			HorizontalLine downLine = new HorizontalLine(0, 78, 24, '+');
+			VerticalLine leftLine = new VerticalLine(0, 24, 0, '+');
+			VerticalLine righttLine = new VerticalLine(0, 24, 78, '+');
 
-			Point p2 = new Point(5, 4, '#');
-			p2.Draw();
+			upLine.Drow();
+			downLine.Drow();
+			leftLine.Drow();
+			righttLine.Drow();
 
-			HorizontalLine lineH = new HorizontalLine(5, 10, 8, '+');	
-			lineH.Drow();
-			VerticalLine lineV = new VerticalLine(10, 15, 7, '+');
-			lineV.Drow();
-
-			Console.ReadKey();
+			Point p = new Point(4, 5, '*');
+			p.Draw();
 		}
 	}
 }

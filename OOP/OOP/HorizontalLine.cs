@@ -4,10 +4,8 @@ using System.Text;
 
 namespace OOP
 {
-	class HorizontalLine
+	class HorizontalLine : Figure //Horizontal Line наследуется от Figure
 	{
-		List<Point> pList;//Лист для создания линии
-
 		public HorizontalLine(int xLeft, int xRight, int y, char sym)//Конструктор для создания линии
 		{
 			pList = new List<Point>();//Пустой список
@@ -16,14 +14,6 @@ namespace OOP
 			{
 				Point p = new Point(x, y, sym);
 				pList.Add(p);
-			}
-		}
-
-		public void Drow()
-		{
-			foreach (Point p in pList)
-			{
-				p.Draw();
 			}
 		}
 	}
