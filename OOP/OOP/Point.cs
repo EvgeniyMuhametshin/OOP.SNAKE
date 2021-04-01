@@ -40,7 +40,7 @@ namespace OOP
 			}
 			else if (direction == Direction.DOWN)
 			{
-				y = y - offset;
+				y = y + offset;
 			}
 		}
 
