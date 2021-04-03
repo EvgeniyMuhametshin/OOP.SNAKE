@@ -1,6 +1,8 @@
 ﻿using System;
 using System.Collections.Generic;
+using System.Linq;
 using System.Text;
+using System.Threading.Tasks;
 
 namespace OOP
 {
@@ -59,6 +61,11 @@ namespace OOP
 		{
 			sym = ' ';
 			Draw();
+		}
+
+		public override string ToString()
+		{
+			return x + ", " + y + ", " + sym;
 		}
 	}
 }
